@@ -1,0 +1,14 @@
+{
+    "files": ["./src/index.js"],
+    "references": [
+    ],
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["./src/*"]
+      }
+    }
+  }
+  
+
+  
